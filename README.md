@@ -5,10 +5,6 @@ In this project, I took my first project step to CTI and SOC by installing OpenC
 
 I will share all the connector list and files I used in my project. You can use the APIs I used in this process.
 
-When you import your .VDI file, it will come with only the portainer file installed. Portainer login information is as follows;
-
-opencti:159753 --- admin:admin1234
-
 
 ## System specifications used in the installation.
 
