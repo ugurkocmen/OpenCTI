@@ -1,15 +1,13 @@
 
 # OpenCTI Project
 
-In this project, I took my first project step into CTI and SOC by installing OpenCTI. I continued using the portainer stack in the installation.
+In this project, I took my first project step to CTI and SOC by installing OpenCTI. I continued using portainer stack in the installation.
 
 I will share all the connector list and files I used in my project. You can use the APIs I used in this process.
 
-.VDI file information is as follows.
+When you import your .VDI file, it will come with only the portainer file installed. Portainer login information is as follows;
 
-passwd:159753
-portainer:admin1234
-opencti:Admin@1234
+admin:admin1234
 
 
 ## System specifications used in the installation.
